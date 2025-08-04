@@ -30,7 +30,7 @@ footer {
 
 
 # Insert title for app
-st.title("Drilling Engineering APP")
+st.title("Drilling Engineering APP.")
 
 st.write("---")
 
